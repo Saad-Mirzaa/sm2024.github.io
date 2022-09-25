@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Site Launched "
+title: "Happy "
 date: 2022-09-25
 ---
 Created a simple website using GitHub Pages with integrated Jekyll (note md files use Markdown for syntax
